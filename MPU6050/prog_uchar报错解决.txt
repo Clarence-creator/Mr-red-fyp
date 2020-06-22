@@ -1,0 +1,7 @@
+MPU6050_6Axis_MotionApps20.h:89:7: error: 'prog_uchar' does not name a type  （或者一大堆编译问题的那种） 解决办法：
+
+
+1.在文本编辑器中打开库的头文件（“MPU6050_6Axis_MotionApps20.h.h”文件）。有一行以“#ifndef <库的名称”开头，后跟一行“#define <库的名称>”。
+2.紧接着这两行，添加以下行：
+typedef const unsigned char prog_uchar ;   
+3.保存文件。
