@@ -109,4 +109,4 @@ Do you like this library? Please [star this project on GitHub](https://github.co
 What? You don't like it but you *love* it?
 We don't take donations anymore, but [we sell a book](https://arduinojson.org/book/?utm_source=github&utm_medium=readme), so you can help and learn at the same time!
 
-still got two files that cannot upload into github cause the file too big . it is in downlload-dogextra12-library-src and test
+still got two files that cannot upload into github cause the file too big . it is in downlload-dogextra12-library-arduniojson-src and test
